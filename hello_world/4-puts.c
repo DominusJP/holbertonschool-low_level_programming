@@ -1,4 +1,4 @@
-/*
+/**
  *  * File: 4-puts.c
  *   * Auth: DominusJP <https://github.com/DominusJP>
  *    */
