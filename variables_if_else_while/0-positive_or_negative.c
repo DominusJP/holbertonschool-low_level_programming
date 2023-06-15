@@ -2,8 +2,8 @@
 #include <time.h>
 #include<stdio.h>
 
-/*
- * main - determione
+/**
+ * main - determione.
  *
  * Return: Always 0 (Success)
  */
