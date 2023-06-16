@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - Prints Holberton as a message.
@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int str[] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
+	int str[] = {126, 80, 85, 84, 67, 72, 65, 82, 84};
 	int count, sz;
 
 			sz = sizeof(str) / sizeof(int);
