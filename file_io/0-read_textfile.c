@@ -3,7 +3,7 @@
  * Auth: j
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
