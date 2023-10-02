@@ -11,7 +11,7 @@
  */
 int linear_search(int *array, size_t size, int value)
 {
-    size_t i; // Declare 'i' outside the loop
+    size_t i; /* Declare 'i' outside the loop */
 
     if (array == NULL)
         return (-1); /* Return -1 if the array is NULL */
